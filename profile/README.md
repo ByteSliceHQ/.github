@@ -1,6 +1,12 @@
-## 👋
+## ByteSlice
 
 We build software that excites us.
-We are currently spending 100% of our time building [🌀 SWIRLS_](https://swirls.ai).
 
-Learn more about us [here](https://byteslice.co/).
+## Projects
+
+- [DeepDish](https://github.com/byteslicehq/deepdish): (PAST) Augmenting CMS providers with React components that are content aware. 
+- [SWIRLS](https://swirls.ai): (CURRENT) A deployment platform for agentic AI workflows defied using the Swirls DSL.
+
+## The team 
+
+Learn more about ByteSlice [here](https://byteslice.co/).
