@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋
 
-We help accelerate your startup's success. With ByteSlice, you can access comprehensive packages designed to support your startup from idea to revenue. We act as an extension of your team that scales with your company.
+We build software that excites us.
+We are currently spending 100% of our time building [🌀 SWIRLS_](https://swirls.ai).
 
-Learn more [here](https://byteslice.co/).
+Learn more about us [here](https://byteslice.co/).
